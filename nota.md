@@ -30,6 +30,7 @@ Questa è una tabella
 
 
 | Nome | Cognome | Mail |
+| --- | --- | --- |
 
 | Michele | Iannello | michele.iannello@itstechtalentfactory.it
 
