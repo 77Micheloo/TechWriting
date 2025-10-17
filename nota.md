@@ -33,7 +33,7 @@ Questa è una tabella
 | --- | --- | --- |
 
 | Michele | Iannello | michele.iannello@itstechtalentfactory.it
-
+| --- | --- | --- |
 
 
 Questo è un link \[testo-desc-del-link](https.//www.google.com/)
